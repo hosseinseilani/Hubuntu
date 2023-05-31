@@ -6,16 +6,16 @@ It’s easy to assume that your desktop Linux is already secure. Do not fall int
 
 
 
-# Hubuntu home releases:
+# Hubuntu Lite Edition:
 HUbuntu 18.04.6 LTS
 HUbuntu 20.04.6 LTS
 HUbuntu 22.04.2 LTS
 
 
-# Hubuntu Enterprise
+# Hubuntu Premium Edition
 HUbuntu 1.0 LTS
 
-Hubuntu Enterprise is secured by using 1000+ security controls and also using Ai and artificial immune system algorithms. This product has charges associated with it for hardening and maintenance. Using a hardened ubuntu according to the trusted security configurations and techniques will reduce cost, time, and risk to an organization.
+Hubuntu Premium Edition is secured by using 1000+ security controls and also using Ai and artificial immune system algorithms. This product has charges associated with it for hardening and maintenance. Using a hardened ubuntu according to the trusted security configurations and techniques will reduce cost, time, and risk to an organization.
 
 
  # Host and Domain sponsored By:
